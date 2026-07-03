@@ -1,0 +1,1420 @@
+{
+ "song": "Striking the Beat",
+ "audio_file": "Striking_the_Beat.mp3",
+ "level": 3,
+ "bpm": 92.28,
+ "beat_offset": 0.07,
+ "beat_interval": 0.6501,
+ "duration": 66.0,
+ "lanes": [
+  "left",
+  "middle",
+  "right"
+ ],
+ "combo_reward_threshold": 3,
+ "hit_windows": {
+  "perfect": 0.06,
+  "good": 0.13,
+  "bad": 0.25,
+  "miss": 0.25
+ },
+ "note_count": 115,
+ "notes": [
+  {
+   "time": 4.853,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 5.48,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 5.805,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 6.13,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 9.961,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 10.588,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 10.913,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 11.238,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 11.564,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 12.19,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 12.841,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 13.468,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 14.118,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 14.721,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 15.395,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 16.022,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 16.672,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 17.299,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 17.949,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 18.576,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 19.226,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 19.853,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 20.503,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 21.13,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "low",
+   "chord": false
+  },
+  {
+   "time": 21.78,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 22.407,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 23.057,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 23.684,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 24.335,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 24.961,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 25.612,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 25.913,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 26.239,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 26.865,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 27.516,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 28.166,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 28.793,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 29.42,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 30.047,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 30.697,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 31.045,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 31.347,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 31.997,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 32.624,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 33.274,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 33.576,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 33.901,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 33.901,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 34.528,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 35.155,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 35.48,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 35.805,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 36.455,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 36.455,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 37.105,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 37.431,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 37.732,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 38.359,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 39.01,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 39.01,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 39.335,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 39.636,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 40.287,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 40.914,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 41.239,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 41.564,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 41.564,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 42.191,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 42.841,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 43.166,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 43.491,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 43.491,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 44.118,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 44.745,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 45.07,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 45.395,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 46.045,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 46.045,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 46.649,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 46.997,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 47.299,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 47.926,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 48.576,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 48.576,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 48.901,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 49.203,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 49.853,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 50.48,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 50.805,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 51.13,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 51.13,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 51.757,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 52.407,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 53.058,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 53.708,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 54.335,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 54.335,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 54.66,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 54.962,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 55.589,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 56.239,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 56.866,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 56.866,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 57.191,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 57.516,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 58.166,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 58.816,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 59.42,
+   "lane": "left",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 59.42,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": true
+  },
+  {
+   "time": 59.745,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "high",
+   "chord": false
+  },
+  {
+   "time": 60.07,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 60.697,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 61.347,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 61.974,
+   "lane": "right",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  },
+  {
+   "time": 62.624,
+   "lane": "middle",
+   "type": "tap",
+   "duration": 0.0,
+   "energy": "mid",
+   "chord": false
+  }
+ ],
+ "phases": [
+  {
+   "show": 1.928,
+   "enter": 4.528,
+   "sweep_beats": 4,
+   "arrows": [
+    "right",
+    "left",
+    "up"
+   ],
+   "motion": "Opening Move 02"
+  },
+  {
+   "show": 8.964,
+   "enter": 11.564,
+   "sweep_beats": 4,
+   "arrows": [
+    "right",
+    "down",
+    "up"
+   ],
+   "motion": "Routine 01"
+  },
+  {
+   "show": 14.072,
+   "enter": 16.672,
+   "sweep_beats": 4,
+   "arrows": [
+    "left",
+    "up",
+    "up",
+    "up"
+   ],
+   "motion": "Routine 01"
+  },
+  {
+   "show": 18.53,
+   "enter": 21.13,
+   "sweep_beats": 4,
+   "arrows": [
+    "down",
+    "down",
+    "down",
+    "right"
+   ],
+   "motion": "Routine 02"
+  },
+  {
+   "show": 23.639,
+   "enter": 26.239,
+   "sweep_beats": 4,
+   "arrows": [
+    "right",
+    "down",
+    "up",
+    "down",
+    "right"
+   ],
+   "motion": "Routine 02"
+  },
+  {
+   "show": 29.397,
+   "enter": 31.997,
+   "sweep_beats": 4,
+   "arrows": [
+    "up",
+    "right",
+    "left",
+    "right",
+    "up"
+   ],
+   "motion": "Cat Daddy"
+  },
+  {
+   "show": 34.505,
+   "enter": 37.105,
+   "sweep_beats": 4,
+   "arrows": [
+    "left",
+    "down",
+    "down",
+    "down",
+    "down",
+    "down"
+   ],
+   "motion": "Down 02"
+  },
+  {
+   "show": 38.964,
+   "enter": 41.564,
+   "sweep_beats": 4,
+   "arrows": [
+    "down",
+    "right",
+    "up",
+    "right",
+    "left",
+    "left"
+   ],
+   "motion": "Routine 03"
+  },
+  {
+   "show": 44.049,
+   "enter": 46.649,
+   "sweep_beats": 4,
+   "arrows": [
+    "left",
+    "up",
+    "up",
+    "left",
+    "right",
+    "down",
+    "left"
+   ],
+   "motion": "Routine 03"
+  },
+  {
+   "show": 49.807,
+   "enter": 52.407,
+   "sweep_beats": 4,
+   "arrows": [
+    "left",
+    "up",
+    "up",
+    "right",
+    "right",
+    "down",
+    "left"
+   ],
+   "motion": "Routine 04"
+  },
+  {
+   "show": 57.47,
+   "enter": 60.07,
+   "sweep_beats": 4,
+   "arrows": [
+    "left",
+    "down",
+    "left",
+    "down",
+    "right",
+    "down",
+    "down",
+    "left"
+   ],
+   "motion": "Ending Move 01"
+  }
+ ],
+ "choreography": [
+  {
+   "start": 0.0,
+   "end": 4.528,
+   "motion": "Opening Move 01",
+   "cue": 4.77,
+   "speed": 0.872,
+   "energy": "intro",
+   "hold": false
+  },
+  {
+   "start": 4.528,
+   "end": 11.564,
+   "motion": "Opening Move 02",
+   "cue": 2.43,
+   "speed": 0.82,
+   "energy": "intro",
+   "hold": false
+  },
+  {
+   "start": 11.564,
+   "end": 21.13,
+   "motion": "Routine 01",
+   "cue": 1.1,
+   "speed": 0.846,
+   "energy": "verse",
+   "hold": false
+  },
+  {
+   "start": 21.13,
+   "end": 31.997,
+   "motion": "Routine 02",
+   "cue": 2.0,
+   "speed": 1.23,
+   "energy": "hook",
+   "hold": false
+  },
+  {
+   "start": 31.997,
+   "end": 37.105,
+   "motion": "Cat Daddy",
+   "cue": 0.33,
+   "speed": 0.987,
+   "energy": "drop",
+   "hold": false
+  },
+  {
+   "start": 37.105,
+   "end": 41.564,
+   "motion": "Down 02",
+   "cue": 0.93,
+   "speed": 0.974,
+   "energy": "drop",
+   "hold": false
+  },
+  {
+   "start": 41.564,
+   "end": 52.407,
+   "motion": "Routine 03",
+   "cue": 0.47,
+   "speed": 0.974,
+   "energy": "hook",
+   "hold": false
+  },
+  {
+   "start": 52.407,
+   "end": 60.07,
+   "motion": "Routine 04",
+   "cue": 0.47,
+   "speed": 1.23,
+   "energy": "outro",
+   "hold": false
+  },
+  {
+   "start": 60.07,
+   "end": 62.624,
+   "motion": "Ending Move 01",
+   "cue": 2.03,
+   "speed": 1.077,
+   "energy": "finish",
+   "hold": false
+  },
+  {
+   "start": 62.624,
+   "end": 66.0,
+   "motion": "Ending Move 02",
+   "cue": 6.9,
+   "speed": 0.67,
+   "energy": "finish",
+   "hold": true
+  }
+ ],
+ "camera_track": [
+  {
+   "start": 21.13,
+   "end": 26.24,
+   "view": "frontLeft"
+  },
+  {
+   "start": 26.24,
+   "end": 32.0,
+   "view": "frontRight"
+  },
+  {
+   "start": 41.56,
+   "end": 46.9,
+   "view": "close"
+  },
+  {
+   "start": 46.9,
+   "end": 52.41,
+   "view": "frontLeft"
+  },
+  {
+   "start": 60.07,
+   "end": 66.0,
+   "view": "close"
+  }
+ ],
+ "stage_path": [
+  {
+   "start": 0.0,
+   "end": 4.53,
+   "from": [
+    0.0,
+    0.0
+   ],
+   "to": [
+    0.0,
+    0.0
+   ]
+  },
+  {
+   "start": 4.53,
+   "end": 11.56,
+   "from": [
+    0.0,
+    0.0
+   ],
+   "to": [
+    0.28,
+    0.02
+   ]
+  },
+  {
+   "start": 11.56,
+   "end": 21.13,
+   "from": [
+    0.28,
+    0.02
+   ],
+   "to": [
+    -0.55,
+    0.0
+   ]
+  },
+  {
+   "start": 21.13,
+   "end": 32.0,
+   "from": [
+    -0.55,
+    0.0
+   ],
+   "to": [
+    0.58,
+    0.08
+   ]
+  },
+  {
+   "start": 32.0,
+   "end": 37.1,
+   "from": [
+    0.58,
+    0.08
+   ],
+   "to": [
+    0.12,
+    0.25
+   ]
+  },
+  {
+   "start": 37.1,
+   "end": 41.56,
+   "from": [
+    0.12,
+    0.25
+   ],
+   "to": [
+    -0.35,
+    0.08
+   ]
+  },
+  {
+   "start": 41.56,
+   "end": 52.41,
+   "from": [
+    -0.35,
+    0.08
+   ],
+   "to": [
+    0.68,
+    -0.06
+   ]
+  },
+  {
+   "start": 52.41,
+   "end": 60.07,
+   "from": [
+    0.68,
+    -0.06
+   ],
+   "to": [
+    0.0,
+    0.0
+   ]
+  },
+  {
+   "start": 60.07,
+   "end": 66.0,
+   "from": [
+    0.0,
+    0.0
+   ],
+   "to": [
+    0.0,
+    0.0
+   ]
+  }
+ ],
+ "groove": {
+  "motion": "Groove 02",
+  "cue": 0.97,
+  "speed": 0.923
+ },
+ "lyrics": [
+  {
+   "time": 0.0,
+   "text": "One, two, three, let's go!"
+  },
+  {
+   "time": 4.8,
+   "text": "One, two, three, let's go!"
+  },
+  {
+   "time": 9.9,
+   "text": "One, two, three, let's go!"
+  },
+  {
+   "time": 11.5,
+   "text": "Step on the floor, the neon lights are shining bright,"
+  },
+  {
+   "time": 13.7,
+   "text": "Feel the bass drop, the crew is moving out of sight."
+  },
+  {
+   "time": 16.3,
+   "text": "Hip-hop in our veins, the music takes total control,"
+  },
+  {
+   "time": 18.7,
+   "text": "If you wanna battle, step right up and rock your soul!"
+  },
+  {
+   "time": 21.4,
+   "text": "Jump up high, spin around like a pro B-Boy,"
+  },
+  {
+   "time": 23.8,
+   "text": "Catchy rhythms locking in, bringing the crowd pure joy."
+  },
+  {
+   "time": 26.2,
+   "text": "Arrow keys are flashing fast, moving like a breeze,"
+  },
+  {
+   "time": 28.7,
+   "text": "Hitting that Perfect streak, racking up points with ease!"
+  },
+  {
+   "time": 31.9,
+   "text": "Popping to the beat, body rocking to the heavy bass,"
+  },
+  {
+   "time": 34.4,
+   "text": "Our flow is too sharp, nobody can match this pace."
+  },
+  {
+   "time": 37.0,
+   "text": "Don't just stand there watching, put your hands up high,"
+  },
+  {
+   "time": 39.1,
+   "text": "The whole dance crew is blowing up under the sky!"
+  },
+  {
+   "time": 41.7,
+   "text": "Through every challenge, we keep it real and stay unique,"
+  },
+  {
+   "time": 44.3,
+   "text": "Strikids on the stage, making opponents hit their peak."
+  },
+  {
+   "time": 46.9,
+   "text": "Keep the passion burning, never back down, never freeze,"
+  },
+  {
+   "time": 49.4,
+   "text": "We take the crown tonight, bringing rivals to their knees!"
+  },
+  {
+   "time": 52.2,
+   "text": "Yeah! Tonight is our night!"
+  },
+  {
+   "time": 54.6,
+   "text": "Strikids crew, let's ride!"
+  },
+  {
+   "time": 57.5,
+   "text": "Tonight is our night!"
+  },
+  {
+   "time": 60.1,
+   "text": "PERFECT FINISH!"
+  }
+ ]
+}

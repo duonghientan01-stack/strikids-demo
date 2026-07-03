@@ -1,0 +1,1461 @@
+{
+  "song": "Candy Pop Blitz",
+  "audio_file": "Candy_Pop_Blitz_.mp3",
+  "bpm": 133.9,
+  "duration": 104.84,
+  "lanes": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "combo_reward_clip": "Breakdance 1990",
+  "combo_reward_threshold": 10,
+  "hit_windows": {
+    "perfect": 0.08,
+    "good": 0.16,
+    "miss": 0.16
+  },
+  "note_count": 180,
+  "notes": [
+    {
+      "time": 2.304,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Squat Stance",
+      "energy": "low"
+    },
+    {
+      "time": 3.221,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Denim Pop Dance",
+      "energy": "low"
+    },
+    {
+      "time": 4.128,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Squat Stance",
+      "energy": "low"
+    },
+    {
+      "time": 5.035,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Rhythmic Dance",
+      "energy": "low"
+    },
+    {
+      "time": 5.952,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Denim Pop Dance",
+      "energy": "low"
+    },
+    {
+      "time": 6.859,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "You Groove",
+      "energy": "low"
+    },
+    {
+      "time": 7.765,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Squat Stance",
+      "energy": "low"
+    },
+    {
+      "time": 8.672,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Rhythmic Dance",
+      "energy": "low"
+    },
+    {
+      "time": 9.589,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Squat Stance",
+      "energy": "low"
+    },
+    {
+      "time": 10.475,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Denim Pop Dance",
+      "energy": "low"
+    },
+    {
+      "time": 11.392,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "You Groove",
+      "energy": "low"
+    },
+    {
+      "time": 12.256,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Squat Stance",
+      "energy": "low"
+    },
+    {
+      "time": 13.216,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Denim Pop Dance",
+      "energy": "low"
+    },
+    {
+      "time": 14.123,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Squat Stance",
+      "energy": "low"
+    },
+    {
+      "time": 15.029,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Denim Pop Dance",
+      "energy": "low"
+    },
+    {
+      "time": 15.947,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Rhythmic Dance",
+      "energy": "low"
+    },
+    {
+      "time": 16.853,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Squat Stance",
+      "energy": "low"
+    },
+    {
+      "time": 17.76,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "You Groove",
+      "energy": "low"
+    },
+    {
+      "time": 18.667,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Squat Stance",
+      "energy": "low"
+    },
+    {
+      "time": 19.584,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Rhythmic Dance",
+      "energy": "low"
+    },
+    {
+      "time": 20.032,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 20.491,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 20.928,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Bubble Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 21.387,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 21.845,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Cardio Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 22.304,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 22.763,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 23.221,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 23.659,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Bubble Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 24.107,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Cardio Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 24.576,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 25.035,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Cardio Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 25.483,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Bubble Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 25.941,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 26.389,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 26.848,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Gangnam Groove",
+      "energy": "mid"
+    },
+    {
+      "time": 27.307,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 27.765,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Cardio Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 28.672,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Rhythmic Dance",
+      "energy": "low"
+    },
+    {
+      "time": 29.579,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "You Groove",
+      "energy": "low"
+    },
+    {
+      "time": 30.496,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Rhythmic Dance",
+      "energy": "low"
+    },
+    {
+      "time": 31.36,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Squat Stance",
+      "energy": "low"
+    },
+    {
+      "time": 32.245,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Rhythmic Dance",
+      "energy": "low"
+    },
+    {
+      "time": 33.216,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "You Groove",
+      "energy": "low"
+    },
+    {
+      "time": 34.123,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Squat Stance",
+      "energy": "low"
+    },
+    {
+      "time": 35.029,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Rhythmic Dance",
+      "energy": "low"
+    },
+    {
+      "time": 35.936,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Denim Pop Dance",
+      "energy": "low"
+    },
+    {
+      "time": 36.843,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "You Groove",
+      "energy": "low"
+    },
+    {
+      "time": 37.76,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Denim Pop Dance",
+      "energy": "low"
+    },
+    {
+      "time": 38.624,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Rhythmic Dance",
+      "energy": "low"
+    },
+    {
+      "time": 39.339,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Squat Stance",
+      "energy": "low"
+    },
+    {
+      "time": 40.245,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "All Night Dance",
+      "energy": "high"
+    },
+    {
+      "time": 40.704,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 41.141,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "All Night Dance",
+      "energy": "high"
+    },
+    {
+      "time": 41.611,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 42.059,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "All Night Dance",
+      "energy": "high"
+    },
+    {
+      "time": 42.517,
+      "lane": "right",
+      "type": "hold",
+      "duration": 0.9,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 42.965,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Jumping Punch",
+      "energy": "high"
+    },
+    {
+      "time": 43.413,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 43.883,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 44.331,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Jumping Punch",
+      "energy": "high"
+    },
+    {
+      "time": 44.789,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "All Night Dance",
+      "energy": "high"
+    },
+    {
+      "time": 45.237,
+      "lane": "right",
+      "type": "hold",
+      "duration": 0.9,
+      "clip": "Jumping Punch",
+      "energy": "high"
+    },
+    {
+      "time": 45.685,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 46.091,
+      "lane": "left",
+      "type": "hold",
+      "duration": 0.9,
+      "clip": "All Night Dance",
+      "energy": "high"
+    },
+    {
+      "time": 46.496,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Jumping Punch",
+      "energy": "high"
+    },
+    {
+      "time": 46.891,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 47.285,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 47.733,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Jumping Punch",
+      "energy": "high"
+    },
+    {
+      "time": 48.181,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 48.629,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Fast Lightning",
+      "energy": "high"
+    },
+    {
+      "time": 49.077,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "All Night Dance",
+      "energy": "high"
+    },
+    {
+      "time": 49.536,
+      "lane": "left",
+      "type": "hold",
+      "duration": 0.9,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 49.984,
+      "lane": "middle",
+      "type": "hold",
+      "duration": 0.9,
+      "clip": "Jumping Punch",
+      "energy": "high"
+    },
+    {
+      "time": 50.453,
+      "lane": "left",
+      "type": "hold",
+      "duration": 0.9,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 50.901,
+      "lane": "middle",
+      "type": "hold",
+      "duration": 0.9,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 51.328,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 51.808,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Jumping Punch",
+      "energy": "high"
+    },
+    {
+      "time": 52.267,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Bubble Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 52.715,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Gangnam Groove",
+      "energy": "mid"
+    },
+    {
+      "time": 53.141,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 53.6,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Gangnam Groove",
+      "energy": "mid"
+    },
+    {
+      "time": 54.016,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Cardio Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 54.517,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Gangnam Groove",
+      "energy": "mid"
+    },
+    {
+      "time": 54.976,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 55.424,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Gangnam Groove",
+      "energy": "mid"
+    },
+    {
+      "time": 55.861,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 56.32,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Jumping Punch",
+      "energy": "high"
+    },
+    {
+      "time": 56.779,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 57.227,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Fast Lightning",
+      "energy": "high"
+    },
+    {
+      "time": 57.685,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 58.133,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "All Night Dance",
+      "energy": "high"
+    },
+    {
+      "time": 58.592,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Jumping Punch",
+      "energy": "high"
+    },
+    {
+      "time": 59.04,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 59.499,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Jumping Punch",
+      "energy": "high"
+    },
+    {
+      "time": 59.947,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 60.405,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 60.832,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Cardio Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 61.301,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Gangnam Groove",
+      "energy": "mid"
+    },
+    {
+      "time": 61.749,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Bubble Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 62.208,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 62.656,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 63.115,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Bubble Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 63.563,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Gangnam Groove",
+      "energy": "mid"
+    },
+    {
+      "time": 64.021,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 64.469,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 64.917,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 65.365,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Gangnam Groove",
+      "energy": "mid"
+    },
+    {
+      "time": 65.824,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Bubble Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 66.229,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 66.72,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Cardio Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 67.179,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Bubble Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 67.627,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 68.032,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Gangnam Groove",
+      "energy": "mid"
+    },
+    {
+      "time": 68.523,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 68.981,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Cardio Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 69.429,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 69.877,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Bubble Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 70.325,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 70.784,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Bubble Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 71.232,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 71.68,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Cardio Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 72.139,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Bubble Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 72.587,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Cardio Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 73.045,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 73.493,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Bubble Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 73.941,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 74.4,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 74.848,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Cardio Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 75.285,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 75.733,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Cardio Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 76.192,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 76.64,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 77.088,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Cardio Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 77.525,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 77.984,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 78.421,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Bubble Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 78.805,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Gangnam Groove",
+      "energy": "mid"
+    },
+    {
+      "time": 79.189,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Arm Circle Shuffle",
+      "energy": "mid"
+    },
+    {
+      "time": 79.573,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Boom Dance",
+      "energy": "mid"
+    },
+    {
+      "time": 80.011,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 80.469,
+      "lane": "middle",
+      "type": "hold",
+      "duration": 0.9,
+      "clip": "Fast Lightning",
+      "energy": "high"
+    },
+    {
+      "time": 80.907,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 81.365,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 81.813,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "All Night Dance",
+      "energy": "high"
+    },
+    {
+      "time": 82.272,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 82.709,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Jumping Punch",
+      "energy": "high"
+    },
+    {
+      "time": 83.147,
+      "lane": "middle",
+      "type": "hold",
+      "duration": 0.9,
+      "clip": "Fast Lightning",
+      "energy": "high"
+    },
+    {
+      "time": 83.616,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 84.064,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 84.512,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Fast Lightning",
+      "energy": "high"
+    },
+    {
+      "time": 84.96,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Jumping Punch",
+      "energy": "high"
+    },
+    {
+      "time": 85.408,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 85.867,
+      "lane": "left",
+      "type": "hold",
+      "duration": 0.9,
+      "clip": "Jumping Punch",
+      "energy": "high"
+    },
+    {
+      "time": 86.315,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Fast Lightning",
+      "energy": "high"
+    },
+    {
+      "time": 86.752,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 87.211,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 87.669,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 88.117,
+      "lane": "right",
+      "type": "hold",
+      "duration": 0.9,
+      "clip": "All Night Dance",
+      "energy": "high"
+    },
+    {
+      "time": 88.565,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 89.003,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Fast Lightning",
+      "energy": "high"
+    },
+    {
+      "time": 89.461,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 89.909,
+      "lane": "middle",
+      "type": "hold",
+      "duration": 0.9,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 90.357,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "All Night Dance",
+      "energy": "high"
+    },
+    {
+      "time": 90.805,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 91.253,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 91.701,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 92.149,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "You Groove",
+      "energy": "low"
+    },
+    {
+      "time": 93.056,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Denim Pop Dance",
+      "energy": "low"
+    },
+    {
+      "time": 93.941,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "You Groove",
+      "energy": "low"
+    },
+    {
+      "time": 94.837,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Squat Stance",
+      "energy": "low"
+    },
+    {
+      "time": 95.744,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Denim Pop Dance",
+      "energy": "low"
+    },
+    {
+      "time": 96.181,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Jumping Punch",
+      "energy": "high"
+    },
+    {
+      "time": 96.64,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Fast Lightning",
+      "energy": "high"
+    },
+    {
+      "time": 97.088,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 97.536,
+      "lane": "right",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Hip Hop Dance 4",
+      "energy": "high"
+    },
+    {
+      "time": 97.984,
+      "lane": "middle",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "Jumping Punch",
+      "energy": "high"
+    },
+    {
+      "time": 98.432,
+      "lane": "left",
+      "type": "tap",
+      "duration": 0.0,
+      "clip": "All Night Dance",
+      "energy": "high"
+    },
+    {
+      "time": 98.84,
+      "lane": "middle",
+      "type": "finisher",
+      "duration": 6.0,
+      "clip": "Backflip Sweep Kick",
+      "energy": "high"
+    },
+    {
+      "time": 103.34,
+      "lane": "middle",
+      "type": "finish_pose",
+      "duration": 1.5,
+      "clip": "One-arm Handstand",
+      "energy": "high"
+    }
+  ]
+}
